@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# TalgaMedia
 
-## Getting Started
+Welcome to **TalgaMedia** – your go-to solution for seamless and efficient web development. We specialize in frontend development, RESTful APIs, and UX/UI design, all crafted with the power of Next.js.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Frontend Development
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Responsive Design**: Ensuring your website looks great on all devices.
+- **Component-Based Architecture**: Reusable and maintainable components for faster development.
+- **SEO Optimization**: Leveraging Next.js for server-side rendering and SEO benefits.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### RESTful API
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- **Scalable**: Design APIs that can grow with your business.
+- **Secure**: Implement robust authentication and authorization.
+- **Efficient**: Optimize API calls to ensure performance and reliability.
 
-## Learn More
+### UX/UI Design
 
-To learn more about Next.js, take a look at the following resources:
+- **User-Centered Design**: Focused on providing the best user experience.
+- **Interactive Interfaces**: Creating engaging and intuitive interfaces.
+- **Accessibility**: Ensuring our designs are usable by everyone, including those with disabilities.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technology Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- **Next.js**: The React framework for production.
+- **React**: A JavaScript library for building user interfaces.
+- **Node.js**: JavaScript runtime built on Chrome's V8 JavaScript engine.
+- **Express**: Fast, unopinionated, minimalist web framework for Node.js.
 
-## Deploy on Vercel
+### Contact
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+For any inquiries, please contact us at:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+**Email:** contact @talgamedia.com
+**Website:** talgamedia.com
