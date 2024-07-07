@@ -1,9 +1,9 @@
-import Image from "next/image";
+import { Icons } from "@/components/Icons";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24">
-      <h1>TalgaMedia</h1>
+    <main>
+      <Icons.logo width={400} height={200} />
     </main>
   );
 }
